@@ -296,3 +296,7 @@ If any violations are found during evaluation or code review (including but not 
 
 This repository includes a minimal CMakeLists.txt that builds an executable named `code` as required by the Online Judge.
 
+
+## OJ Submission Log (for reference)
+- 2026-04-22: Submission IDs 787410, 787413, 787414, 787418 — all accepted with score 100.
+
